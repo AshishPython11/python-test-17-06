@@ -1,7 +1,7 @@
 For Backend
 
-- Install requiements.txt
-pip install -r requirments.txt
+Install requiements.txt
+- pip install -r requirments.txt
 
 run migrations
 - alembic upgrade head
