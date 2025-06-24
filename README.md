@@ -1,11 +1,11 @@
-For Backend
+# For Backend
 
-Install requiements.txt
-- pip install -r requirments.txt
+## Install requiements.txt
+- pip install -r requirements.txt
 
-run migrations
+## run migrations
 - alembic upgrade head
 
-run backend project
+## run backend project
 - uvicorn -m main:app --reload
   
